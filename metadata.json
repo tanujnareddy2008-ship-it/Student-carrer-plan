@@ -1,0 +1,6 @@
+{
+  "name": "PathFinder - AI Student Career Roadmap & Planner",
+  "description": "Discover your ideal career path through an intelligent interest assessment, personalized step-by-step roadmaps, skill milestones, and action plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
